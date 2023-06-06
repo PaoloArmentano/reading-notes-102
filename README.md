@@ -1,4 +1,4 @@
-# readingnotes
+# Reading Notes
 #### Intro
 Hi my name is Paolo and I'm an aspiring web developer. Outside of web development, my passions include:
 - Music
@@ -13,7 +13,9 @@ Hi my name is Paolo and I'm an aspiring web developer. Outside of web developmen
 
 ### I can remind myself to stay in the growth mindset by:
 -Thinking back to all the times I thought I couldn't do something and did it in the through sheer hard work.
+
 -Reminding myself that the idea of fixed mindset is an outdated concept that was due to our lack of understanding of the human mind and potential.
 
 ![A representation of a growth mindset](https://www.hollymountschool.org/wp-content/uploads/2022/02/1_aFtggN7wbeBIKCN5i3kTdw-1.png)
+
 You can also check my github page [HERE](https://github.com/PaoloArmentano)
